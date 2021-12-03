@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Trouttt/teste/issues"
   },
-  "homepage": "https://github.com/Trouttt/teste#readme"
+  "homepage": "https://github.com/Trouttt/teste#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
